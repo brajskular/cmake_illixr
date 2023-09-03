@@ -264,3 +264,6 @@ You can join
 [47]:   https://discord.gg/upkvy7x3W4
 [48]:   mailto:lists@lists.cs.illinois.edu?subject=sub%20illixr-community
 [49]:   mailto:illixr@cs.illinois.edu
+
+<!-- https://github.com/intel/pinball2elf.git -->
+<!-- https://github.com/maxbachmann/intel-sde.git -->
